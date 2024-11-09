@@ -1,6 +1,10 @@
+from dotenv import load_dotenv
 from fastapi import FastAPI
 from langchain.chains.llm import LLMChain
 from langserve import add_routes
+
+load_dotenv()
+
 
 from .chain import create_chain
 from .model import UserQuestion
