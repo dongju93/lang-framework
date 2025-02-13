@@ -1,0 +1,295 @@
+[
+    {
+        "name": "apple",
+        "tags": [
+            "fruit",
+            "apple",
+            "healthy",
+            "juicy",
+            "crisp"
+        ],
+        "description": "An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. Apples are rich in fiber, vitamins, and antioxidants.",
+        "kind": "fruit",
+        "color": [
+            "red",
+            "green",
+            "yellow",
+            "pink",
+            "golden"
+        ],
+        "nutritional_value": {
+            "calories": 52,
+            "carbohydrates": 14,
+            "fiber": 2.4,
+            "sugar": 10,
+            "protein": 0.3,
+            "vitamins": {
+                "vitamin_c": "8% of Daily Value",
+                "vitamin_a": "1% of Daily Value",
+                "vitamin_k": "3% of Daily Value"
+            },
+            "minerals": {
+                "potassium": "195mg",
+                "calcium": "6mg",
+                "iron": "0.1mg"
+            }
+        },
+        "origin": "Central Asia",
+        "cultivation": {
+            "climate": "Temperate",
+            "soil": "Well-drained, loamy soil",
+            "harvest_season": "Late summer to fall",
+            "growth_time": "4-5 years to bear fruit"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Juice production",
+            "Cider making",
+            "Baking (pies, cakes)",
+            "Dried snacks",
+            "Apple sauce"
+        ],
+        "popular_varieties": [
+            "Fuji",
+            "Gala",
+            "Granny Smith",
+            "Honeycrisp",
+            "Red Delicious",
+            "Golden Delicious"
+        ]
+    },
+    {
+        "name": "banana",
+        "tags": [
+            "fruit",
+            "banana",
+            "tropical",
+            "sweet"
+        ],
+        "description": "A banana is a tropical fruit that is elongated, soft, and rich in potassium. It is a staple food in many tropical countries.",
+        "kind": "fruit",
+        "color": [
+            "yellow",
+            "green"
+        ],
+        "nutritional_value": {
+            "calories": 89,
+            "carbohydrates": 23,
+            "fiber": 2.6,
+            "sugar": 12,
+            "protein": 1.1,
+            "vitamins": {
+                "vitamin_c": "14% of Daily Value",
+                "vitamin_b6": "20% of Daily Value",
+                "potassium": "358mg"
+            }
+        },
+        "origin": "Southeast Asia",
+        "cultivation": {
+            "climate": "Tropical",
+            "soil": "Well-drained, rich in organic matter",
+            "harvest_season": "Year-round",
+            "growth_time": "9-12 months"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Smoothies",
+            "Baking",
+            "Dried snacks",
+            "Cooking"
+        ],
+        "popular_varieties": [
+            "Cavendish",
+            "Plantain",
+            "Red Banana",
+            "Manzano"
+        ]
+    },
+    {
+        "name": "orange",
+        "tags": [
+            "fruit",
+            "orange",
+            "citrus",
+            "juicy"
+        ],
+        "description": "An orange is a citrus fruit known for its sweet and tangy flavor, high vitamin C content, and use in juices.",
+        "kind": "fruit",
+        "color": [
+            "orange"
+        ],
+        "nutritional_value": {
+            "calories": 47,
+            "carbohydrates": 12,
+            "fiber": 2.4,
+            "sugar": 9,
+            "protein": 0.9,
+            "vitamins": {
+                "vitamin_c": "89% of Daily Value",
+                "vitamin_a": "4% of Daily Value",
+                "potassium": "181mg"
+            }
+        },
+        "origin": "China",
+        "cultivation": {
+            "climate": "Subtropical to Mediterranean",
+            "soil": "Well-drained, sandy loam",
+            "harvest_season": "Winter to early spring",
+            "growth_time": "3-5 years to bear fruit"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Juice production",
+            "Marmalade",
+            "Baking",
+            "Flavoring"
+        ],
+        "popular_varieties": [
+            "Navel",
+            "Valencia",
+            "Mandarin",
+            "Blood Orange"
+        ]
+    },
+    {
+        "name": "grape",
+        "tags": [
+            "fruit",
+            "grape",
+            "vine",
+            "small"
+        ],
+        "description": "Grapes are small, round fruits that grow in clusters and are used for fresh eating, wine production, and raisins.",
+        "kind": "fruit",
+        "color": [
+            "purple",
+            "green",
+            "red"
+        ],
+        "nutritional_value": {
+            "calories": 69,
+            "carbohydrates": 18,
+            "fiber": 0.9,
+            "sugar": 16,
+            "protein": 0.7,
+            "vitamins": {
+                "vitamin_c": "4% of Daily Value",
+                "vitamin_k": "18% of Daily Value",
+                "potassium": "191mg"
+            }
+        },
+        "origin": "Near East",
+        "cultivation": {
+            "climate": "Temperate to Mediterranean",
+            "soil": "Well-drained, slightly acidic",
+            "harvest_season": "Late summer to fall",
+            "growth_time": "2-3 years to bear fruit"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Wine production",
+            "Juice",
+            "Raisins",
+            "Jelly"
+        ],
+        "popular_varieties": [
+            "Concord",
+            "Thompson Seedless",
+            "Red Globe",
+            "Cotton Candy"
+        ]
+    },
+    {
+        "name": "strawberry",
+        "tags": [
+            "fruit",
+            "strawberry",
+            "berry",
+            "red"
+        ],
+        "description": "Strawberries are bright red, juicy berries known for their sweet and slightly tart taste, often used in desserts.",
+        "kind": "fruit",
+        "color": [
+            "red"
+        ],
+        "nutritional_value": {
+            "calories": 32,
+            "carbohydrates": 7.7,
+            "fiber": 2.0,
+            "sugar": 4.9,
+            "protein": 0.7,
+            "vitamins": {
+                "vitamin_c": "98% of Daily Value",
+                "vitamin_b9": "6% of Daily Value",
+                "potassium": "153mg"
+            }
+        },
+        "origin": "France",
+        "cultivation": {
+            "climate": "Temperate",
+            "soil": "Loamy, well-drained soil with organic matter",
+            "harvest_season": "Spring to early summer",
+            "growth_time": "1 year to bear fruit"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Jam making",
+            "Baking",
+            "Smoothies",
+            "Chocolate dipping"
+        ],
+        "popular_varieties": [
+            "Albion",
+            "Chandler",
+            "Seascape",
+            "Honeoye"
+        ]
+    },
+    {
+        "name": "watermelon",
+        "tags": [
+            "fruit",
+            "watermelon",
+            "summer",
+            "refreshing"
+        ],
+        "description": "Watermelon is a large, juicy fruit with high water content, commonly eaten in summer for its refreshing taste.",
+        "kind": "fruit",
+        "color": [
+            "green",
+            "red"
+        ],
+        "nutritional_value": {
+            "calories": 30,
+            "carbohydrates": 7.6,
+            "fiber": 0.4,
+            "sugar": 6.2,
+            "protein": 0.6,
+            "vitamins": {
+                "vitamin_c": "21% of Daily Value",
+                "vitamin_a": "11% of Daily Value",
+                "potassium": "112mg"
+            }
+        },
+        "origin": "Africa",
+        "cultivation": {
+            "climate": "Warm, tropical to subtropical",
+            "soil": "Sandy, well-drained soil",
+            "harvest_season": "Summer",
+            "growth_time": "3-4 months"
+        },
+        "uses": [
+            "Fresh consumption",
+            "Juice",
+            "Smoothies",
+            "Fruit salads",
+            "Pickled rinds"
+        ],
+        "popular_varieties": [
+            "Sugar Baby",
+            "Crimson Sweet",
+            "Charleston Gray",
+            "Yellow Doll"
+        ]
+    }
+]
