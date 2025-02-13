@@ -1,5 +1,5 @@
-from langchain.chat_models.ollama import ChatOllama
 from langchain.prompts import ChatPromptTemplate
+from langchain_ollama.chat_models import ChatOllama
 
 
 def create_llama_chat(
